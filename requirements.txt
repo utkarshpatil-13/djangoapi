@@ -11,7 +11,7 @@ colorama==0.4.6
 contourpy==1.2.0
 cryptography==42.0.4
 cycler==0.12.1
-Django==5.0.3
+Django==4.1.5
 djangorestframework==3.14.0
 dm-tree==0.1.8
 filelock==3.13.1
